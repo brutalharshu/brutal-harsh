@@ -8,34 +8,6 @@
   <h1 class="profile-title">Hi there! 👋 I'm Harsh Kadyan</h1>
   <p>I'm a 19-year-old aspiring website developer, Android app developer, and freelancer. Currently pursuing a BCA degree to expand my technical knowledge and skills.</p>
 
-<h2>Projects</h2>
-  <div class="project-images-container">
-    <div class="project-image">
-      <a href="https://cdn.discordapp.com/attachments/1105431921770639400/1159184375196418108/work1.jpg?ex=651ef613&is=651da493&hm=b2f6f2f5edee432d8fe1b8ecb26985233223d86ee6218f2d6ddaf89fd05d89b0&">
-        <div class="image-container">
-          <img src="https://cdn.discordapp.com/attachments/1105431921770639400/1159184375196418108/work1.jpg?ex=651ef613&is=651da493&hm=b2f6f2f5edee432d8fe1b8ecb26985233223d86ee6218f2d6ddaf89fd05d89b0&" width="100" height="100">
-          <button class="view-button">View</button>
-        </div>
-      </a>
-    </div>
-    <div class="project-image">
-      <a href="https://cdn.discordapp.com/attachments/1105431921770639400/1159184376463097868/work11.png?ex=651ef613&is=651da493&hm=c844966914859c69afca8338b01bbb6742cce12844f5ee603a5635f57f69f824&">
-        <div class="image-container">
-          <img src="https://cdn.discordapp.com/attachments/1105431921770639400/1159184376463097868/work11.png?ex=651ef613&is=651da493&hm=c844966914859c69afca8338b01bbb6742cce12844f5ee603a5635f57f69f824&" width="100" height="100">
-          <button class="view-button">View</button>
-        </div>
-      </a>
-    </div>
-    <div class="project-image">
-      <a href="https://cdn.discordapp.com/attachments/1105431921770639400/1159184376114978836/work3.jpg?ex=651ef613&is=651da493&hm=96ed7bc04a173cce69f9d1d3cd7b65bf75ebba37f377c7074e01a78aebe765e2&">
-        <div class="image-container">
-          <img src="https://cdn.discordapp.com/attachments/1105431921770639400/1159184376114978836/work3.jpg?ex=651ef613&is=651da493&hm=96ed7bc04a173cce69f9d1d3cd7b65bf75ebba37f377c7074e01a78aebe765e2&" width="100" height="100">
-          <button class="view-button">View</button>
-        </div>
-      </a>
-    </div>
-  </div>
-
   <h2>Work Experience</h2>
 <div class="experience-text">
   <p>SOFTWARE & TOOLS</p>
@@ -93,6 +65,34 @@
   <a href="https://harshtech.me/cv.html">
     <img src="https://img.shields.io/badge/-CV-0A66C2?style=flat&logo=cv&logoColor=white" alt="CV / Resume">
   </a>
+
+<h2>Projects</h2>
+  <div class="project-images-container">
+    <div class="project-image">
+      <a href="https://cdn.discordapp.com/attachments/1105431921770639400/1159184375196418108/work1.jpg?ex=651ef613&is=651da493&hm=b2f6f2f5edee432d8fe1b8ecb26985233223d86ee6218f2d6ddaf89fd05d89b0&">
+        <div class="image-container">
+          <img src="https://cdn.discordapp.com/attachments/1105431921770639400/1159184375196418108/work1.jpg?ex=651ef613&is=651da493&hm=b2f6f2f5edee432d8fe1b8ecb26985233223d86ee6218f2d6ddaf89fd05d89b0&" width="100" height="100">
+          <button class="view-button">View</button>
+        </div>
+      </a>
+    </div>
+    <div class="project-image">
+      <a href="https://cdn.discordapp.com/attachments/1105431921770639400/1159184376463097868/work11.png?ex=651ef613&is=651da493&hm=c844966914859c69afca8338b01bbb6742cce12844f5ee603a5635f57f69f824&">
+        <div class="image-container">
+          <img src="https://cdn.discordapp.com/attachments/1105431921770639400/1159184376463097868/work11.png?ex=651ef613&is=651da493&hm=c844966914859c69afca8338b01bbb6742cce12844f5ee603a5635f57f69f824&" width="100" height="100">
+          <button class="view-button">View</button>
+        </div>
+      </a>
+    </div>
+    <div class="project-image">
+      <a href="https://cdn.discordapp.com/attachments/1105431921770639400/1159184376114978836/work3.jpg?ex=651ef613&is=651da493&hm=96ed7bc04a173cce69f9d1d3cd7b65bf75ebba37f377c7074e01a78aebe765e2&">
+        <div class="image-container">
+          <img src="https://cdn.discordapp.com/attachments/1105431921770639400/1159184376114978836/work3.jpg?ex=651ef613&is=651da493&hm=96ed7bc04a173cce69f9d1d3cd7b65bf75ebba37f377c7074e01a78aebe765e2&" width="100" height="100">
+          <button class="view-button">View</button>
+        </div>
+      </a>
+    </div>
+  </div>
 
 </body>
 </html>
