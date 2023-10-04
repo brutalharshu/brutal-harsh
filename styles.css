@@ -30,3 +30,30 @@ body {
     flex-wrap: wrap;
   }
   
+  .project-images-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .project-image {
+    text-align: center;
+  }
+  
+  .view-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 12px;
+    margin-top: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .view-button:hover {
+    background-color: orange;
+  }
+  

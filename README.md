@@ -8,51 +8,59 @@
   <h1 class="profile-title">Hi there! 👋 I'm Harsh Kadyan</h1>
   <p>I'm a 19-year-old aspiring website developer, Android app developer, and freelancer. Currently pursuing a BCA degree to expand my technical knowledge and skills.</p>
 
-  <h2>Projects</h2>
+<h2>Projects</h2>
+<div class="project-images-container">
   <div class="project-image">
-    <a href="project2-url">
-      <img src="img/work2.jpg" width="100" height="100">
+    <a href="https://cdn.discordapp.com/attachments/1105431921770639400/1159184375196418108/work1.jpg?ex=651ef613&is=651da493&hm=b2f6f2f5edee432d8fe1b8ecb26985233223d86ee6218f2d6ddaf89fd05d89b0&">
+      <img src="https://cdn.discordapp.com/attachments/1105431921770639400/1159184375196418108/work1.jpg?ex=651ef613&is=651da493&hm=b2f6f2f5edee432d8fe1b8ecb26985233223d86ee6218f2d6ddaf89fd05d89b0&" width="100" height="100">
       <br>
       <button class="view-button">View</button>
     </a>
   </div>
   <div class="project-image">
-    <a href="img/work1.jpg">
-      <img src="img/work1.jpg" width="100" height="100">
+    <a href="https://cdn.discordapp.com/attachments/1105431921770639400/1159184376463097868/work11.png?ex=651ef613&is=651da493&hm=c844966914859c69afca8338b01bbb6742cce12844f5ee603a5635f57f69f824&">
+      <img src="https://cdn.discordapp.com/attachments/1105431921770639400/1159184376463097868/work11.png?ex=651ef613&is=651da493&hm=c844966914859c69afca8338b01bbb6742cce12844f5ee603a5635f57f69f824&" width="100" height="100">
       <br>
       <button class="view-button">View</button>
     </a>
   </div>
   <div class="project-image">
-    <a href="project2-url">
-      <img src="img/work3.jpg" width="100" height="100">
+    <a href="https://cdn.discordapp.com/attachments/1105431921770639400/1159184376114978836/work3.jpg?ex=651ef613&is=651da493&hm=96ed7bc04a173cce69f9d1d3cd7b65bf75ebba37f377c7074e01a78aebe765e2&">
+      <img src="https://cdn.discordapp.com/attachments/1105431921770639400/1159184376114978836/work3.jpg?ex=651ef613&is=651da493&hm=96ed7bc04a173cce69f9d1d3cd7b65bf75ebba37f377c7074e01a78aebe765e2&" width="100" height="100">
       <br>
       <button class="view-button">View</button>
     </a>
   </div>
+</div>
+
 
   <h2>Work Experience</h2>
-  <div class="experience-image">
-    <a href="img/work22.png">
-      <img src="img/work22.png" width="100" height="100">
-      <br>
-      <button class="view-button">View</button>
-    </a>
-  </div>
-  <div class="experience-image">
-    <a href="img/work11">
-      <img src="img/work11.png" width="100" height="100">
-      <br>
-      <button class="view-button">View</button>
-    </a>
-  </div>
-  <div class="experience-image">
-    <a href="img/work33.png">
-      <img src="img/work33.png" width="100" height="100">
-      <br>
-      <button class="view-button">View</button>
-    </a>
-  </div>
+<div class="experience-text">
+  <p>SOFTWARE & TOOLS</p>
+  <p>In Python, Java Script, C, C++</p>
+  <ul>
+    <li>Make software & tools for NFT.</li>
+    <li>Make software & tools for sellers.</li>
+    <li>Make software & tools to done my work fast.</li>
+  </ul>
+</div>
+<div class="experience-text">
+  <p>WEB DESIGNER AND DEVELOPER</p>
+  <p>In Html, CSS, JS, and Next.js</p>
+  <ul>
+    <li>I have developed custom websites for various companies.</li>
+    <li>I have designed super cool animated websites for clients.</li>
+    <li>I have designed ecommerce, portfolios, and blogs websites.</li>
+  </ul>
+</div>
+<div class="experience-text">
+  <p>APP DEVELOPER</p>
+  <p>In Java and C++</p>
+  <ul>
+    <li>I have developed web views and small applications to enhance the functionality of my websites.</li>
+  </ul>
+</div>
+
 
   <h2>Skills</h2>
   <div class="skills-hobbies">
