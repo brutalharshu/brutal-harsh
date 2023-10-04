@@ -4,32 +4,29 @@
   <meta charset="UTF-8">
 </head>
 <body>
-  <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
-  <img src="img/me.png" alt="Profile Image" style="border-radius: 50%; width: 150px; height: 150px;">
-</div>
   <h1 class="profile-title">Hi there! 👋 I'm Harsh Kadyan</h1>
   <p>I'm a 19-year-old aspiring website developer, andriod app developer, and freelancer. Currently pursuing a BCA degree to expand my technical knowledge and skills.</p>
 
   <h2>Projects</h2>
   <a href="project2-url">
-    <img src="img/work2.jpg" width="200" height="200" border="10">
+    <img src="img/work2.jpg" width="200" height="200">
   </a>
   <a href="img/work1.jpg">
-    <img src="img/work1.jpg" width="200" height="200" border="10">
+    <img src="img/work1.jpg" width="200" height="200">
   </a>
   <a href="project2-url">
-    <img src="img/work3.jpg" width="200" height="200" border="10">
+    <img src="img/work3.jpg" width="200" height="200">
   </a>
 
   <h2>Work Experience</h2>
   <a href="img/work22.png">
-    <img src="img/work22.png" width="200" height="200" border="10">
+    <img src="img/work22.png" width="200" height="200">
   </a>
   <a href="img/work11">
-    <img src="img/work11.png" width="200" height="200" border="10">
+    <img src="img/work11.png" width="200" height="200">
   </a>
   <a href="img/work33.png">
-    <img src="img/work33.png" width="200" height="200" border="10">
+    <img src="img/work33.png" width="200" height="200">
   </a>
 
 
