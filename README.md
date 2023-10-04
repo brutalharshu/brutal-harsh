@@ -1,49 +1,47 @@
-# Hi there! 👋 I'm Jod Harsh
+<!-- Replace the placeholders with your actual information and add animations and links as desired. -->
 
-I'm a passionate software developer and open-source enthusiast. Welcome to my GitHub profile! Here, you'll find a collection of projects, contributions, and a bit about myself.
+# Hi there! 👋 I'm Harsh Kadyan
 
-🚀 **Quick Facts:**
-- 💻 Full-stack Developer
-- 🌍 Based in [Your Location]
-- 🔧 Tech Stack: JavaScript, Python, React, Node.js, and more.
-- 📫 Reach me at [Your Email]
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- 📷 Follow me on [Twitter](https://twitter.com/your-twitter-handle)
+I'm a 19-year-old aspiring cybersecurity expert, software developer, and freelancer. Currently pursuing a BCA degree to expand my technical knowledge and skills.
 
-## 🛠️ My Skills
+🔗 **Website**: [harshtech.me](http://harshtech.me)
 
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, Express, Python
-- **Databases**: MongoDB, MySQL, PostgreSQL
-- **DevOps**: Docker, CI/CD, AWS, Azure
-- **Version Control**: Git, GitHub
+## About Me
 
-## 🌟 Featured Projects
+- 💼 **Profession**: Freelancer & Social Media Manager
+- 🌐 **Skills**: Python, JavaScript, HTML/CSS, Java
+- 🌟 **Expertise**: Python development, Bug Hunting, Software Development
+- 👩‍💻 **Experience**: 4 years in programming, 3 years in designing,
+- 📚 **Education**: BCA from Matu Ram Institute Of Engineering & Management - Rohtak (2023 - Present)
+- 🎓 **10th Class**: Rohtak (2020 - 2021) - Achieved 96% marks
+- 🎓 **10th Class**: Rohtak (2022 - 2023) - Achieved 80% marks
 
-Here are some of the projects I'm most proud of:
+## Work Experience
 
-### Project 1: [Project Name](Link to the project repository)
-Description of the project and its significance. 
+- **Web Designer and Developer** (2019 - 2022)
+  - Developed custom websites for various companies.
+  - Designed super cool animated websites for clients.
+  - Created e-commerce, portfolio, and blog websites.
+  - Developed web views and small applications to enhance website functionality.
 
-[![Project 1](project1-image-url)](Link to the project)
+- **App Developer** (2023 - Present)
+  - Proficient in Python, JavaScript, C, C++.
+  - Developing apps with a strong passion for programming.
 
-### Project 2: [Project Name](Link to the project repository)
-Brief description of the project and its impact.
+## Skills & Expertise
 
-[![Project 2](project2-image-url)](Link to the project)
+- **Programming**: Python, JavaScript, C, C++
+- **Web Development**: HTML, CSS, JS, Next.js
+- **Software Development**: Python, Java
+- **Tools**: Experienced in creating software and tools for NFT and sellers.
+- **Bug Hunting**: Proficient in identifying and reporting software vulnerabilities.
 
-## 📈 GitHub Stats
+## Hobbies
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jod-Harsh&show_icons=true&theme=dark)
+- Programming
+- Designing
+- Gaming
 
-## 📊 Recent Activity
+Feel free to reach out to me for collaboration or any inquiries!
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Jod-Harsh&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&hide_border=true)
-
-## 🌐 Let's Connect!
-
-Feel free to reach out to me. I'd love to chat and collaborate on exciting projects!
-
-[![LinkedIn](linkedin-badge-image-url)](https://www.linkedin.com/in/your-linkedin-profile)
-[![Twitter](twitter-badge-image-url)](https://twitter.com/your-twitter-handle)
-
+<!-- Add your CSS and JavaScript animations here to make the README more animated and engaging. -->
