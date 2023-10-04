@@ -4,7 +4,9 @@
   <meta charset="UTF-8">
 </head>
 <body>
-  <img src="img/me.png" alt="Profile Image" class="profile-image">
+  <div style="display: flex; justify-content: center; align-items: center; height: 200px;">
+  <img src="img/me.png" alt="Profile Image" style="border-radius: 50%; width: 150px; height: 150px;">
+</div>
   <h1 class="profile-title">Hi there! 👋 I'm Harsh Kadyan</h1>
   <p>I'm a 19-year-old aspiring website developer, andriod app developer, and freelancer. Currently pursuing a BCA degree to expand my technical knowledge and skills.</p>
 
