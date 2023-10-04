@@ -6,49 +6,75 @@
 </head>
 <body>
   <h1 class="profile-title">Hi there! 👋 I'm Harsh Kadyan</h1>
-  <p>I'm a 19-year-old aspiring website developer, andriod app developer, and freelancer. Currently pursuing a BCA degree to expand my technical knowledge and skills.</p>
+  <p>I'm a 19-year-old aspiring website developer, Android app developer, and freelancer. Currently pursuing a BCA degree to expand my technical knowledge and skills.</p>
 
   <h2>Projects</h2>
-  <a href="project2-url">
-    <img src="img/work2.jpg" width="200" height="200">
-  </a>
-  <a href="img/work1.jpg">
-    <img src="img/work1.jpg" width="200" height="200">
-  </a>
-  <a href="project2-url">
-    <img src="img/work3.jpg" width="200" height="200">
-  </a>
+  <div class="project-image">
+    <a href="project2-url">
+      <img src="img/work2.jpg" width="100" height="100">
+      <br>
+      <button class="view-button">View</button>
+    </a>
+  </div>
+  <div class="project-image">
+    <a href="img/work1.jpg">
+      <img src="img/work1.jpg" width="100" height="100">
+      <br>
+      <button class="view-button">View</button>
+    </a>
+  </div>
+  <div class="project-image">
+    <a href="project2-url">
+      <img src="img/work3.jpg" width="100" height="100">
+      <br>
+      <button class="view-button">View</button>
+    </a>
+  </div>
 
   <h2>Work Experience</h2>
-  <a href="img/work22.png">
-    <img src="img/work22.png" width="200" height="200">
-  </a>
-  <a href="img/work11">
-    <img src="img/work11.png" width="200" height="200">
-  </a>
-  <a href="img/work33.png">
-    <img src="img/work33.png" width="200" height="200">
-  </a>
-
+  <div class="experience-image">
+    <a href="img/work22.png">
+      <img src="img/work22.png" width="100" height="100">
+      <br>
+      <button class="view-button">View</button>
+    </a>
+  </div>
+  <div class="experience-image">
+    <a href="img/work11">
+      <img src="img/work11.png" width="100" height="100">
+      <br>
+      <button class="view-button">View</button>
+    </a>
+  </div>
+  <div class="experience-image">
+    <a href="img/work33.png">
+      <img src="img/work33.png" width="100" height="100">
+      <br>
+      <button class="view-button">View</button>
+    </a>
+  </div>
 
   <h2>Skills</h2>
-  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/-Java-black?style=flat&logo=java" alt="Java">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="CSS3">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c" alt="C++">
+  <div class="skills-hobbies">
+    <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python" alt="Python" class="skill-badge">
+    <img src="https://img.shields.io/badge/-Java-black?style=flat&logo=java" alt="Java" class="skill-badge">
+    <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" alt="JavaScript" class="skill-badge">
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" class="skill-badge">
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="CSS3" class="skill-badge">
+    <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c" alt="C++" class="skill-badge">
+  </div>
 
   <h2>Hobbies</h2>
-  <img src="https://img.shields.io/badge/-Music-black?style=flat&logo=spotify" alt="Music">
-  <img src="https://img.shields.io/badge/-Gaming-black?style=flat&logo=nintendo-switch" alt="Gaming">
-  <img src="https://img.shields.io/badge/-Coding-black?style=flat&logo=visual-studio-code" alt="Coding">
-
-
+  <div class="skills-hobbies">
+    <img src="https://img.shields.io/badge/-Music-black?style=flat&logo=spotify" alt="Music" class="hobby-badge">
+    <img src="https://img.shields.io/badge/-Gaming-black?style=flat&logo=nintendo-switch" alt="Gaming" class="hobby-badge">
+    <img src="https://img.shields.io/badge/-Coding-black?style=flat&logo=visual-studio-code" alt="Coding" class="hobby-badge">
+  </div>
 
   <h2>Connect with me</h2>
   <a href="http://harshtech.me/">
     <img src="https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white" alt="Website">
+  </a>
   <a href="https://discord.com/users/271140080188522497">
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=discord&logoColor=white" alt="Discord">
   </a>
@@ -59,6 +85,5 @@
     <img src="https://img.shields.io/badge/-CV-0A66C2?style=flat&logo=cv&logoColor=white" alt="CV / Resume">
   </a>
 
-<script src="script.js"></script>
 </body>
 </html>
