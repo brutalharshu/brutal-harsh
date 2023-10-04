@@ -32,12 +32,12 @@
 
 
   <h2>Skills</h2>
+  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/-Java-black?style=flat&logo=java" alt="Java">
+  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" alt="JavaScript">
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3" alt="CSS3">
-  <img src="https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python" alt="Python">
   <img src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c" alt="C++">
-  <img src="https://img.shields.io/badge/-Java-black?style=flat&logo=java" alt="Java">
 
   <h2>Hobbies</h2>
   <img src="https://img.shields.io/badge/-Music-black?style=flat&logo=spotify" alt="Music">
