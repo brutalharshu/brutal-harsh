@@ -2,27 +2,6 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <style>
-    
-    body {
-      font-family: Arial, sans-serif;
-      background-color: #ea7af2;
-      text-align: center;
-    }
-
-    .profile-image {
-      border-radius: 50%;
-      width: 150px;
-      height: 150px;
-    }
-
-    .profile-title {
-      font-size: 24px;
-      color: #333;
-      margin-top: 20px;
-    }
-
-  </style>
 </head>
 <body>
   <img src="img/me.png" alt="Profile Image" class="profile-image">
