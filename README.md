@@ -2,6 +2,7 @@
 <html>
 <head>
   <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="styles.css">
 </head>
 <body>
   <h1 class="profile-title">Hi there! 👋 I'm Harsh Kadyan</h1>
@@ -58,5 +59,6 @@
     <img src="https://img.shields.io/badge/-CV-0A66C2?style=flat&logo=cv&logoColor=white" alt="CV / Resume">
   </a>
 
+<script src="script.js"></script>
 </body>
 </html>
