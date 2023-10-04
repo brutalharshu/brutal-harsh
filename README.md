@@ -8,10 +8,6 @@
   <h1 class="profile-title">Hi there! 👋 I'm Harsh Kadyan</h1>
   <p>I'm a 19-year-old aspiring website developer, Android app developer, and freelancer. Currently pursuing a BCA degree to expand my technical knowledge and skills.</p>
 
- <a href="https://github.com/omidnikrah/profile-activity-generator">
-    <img src="https://raw.githubusercontent.com/Jod-Harsh/omidnikrah/master/activity-profile.png" />
-  </a>
-
 <h2>Projects</h2>
   <div class="project-images-container">
     <div class="project-image">
