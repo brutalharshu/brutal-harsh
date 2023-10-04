@@ -63,7 +63,6 @@
   </ul>
 </div>
 
-
   <h2>Skills</h2>
   <div class="skills-hobbies">
     <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python" alt="Python" class="skill-badge">
