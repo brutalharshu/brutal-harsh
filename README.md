@@ -1,17 +1,10 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" width="3000" />
 
 <br />
-## Hi there! 👋 I'm Harsh
-**I'm a 19-year-old aspiring website developer, Android app developer, and freelancer. Currently pursuing a BCA degree to expand my technical knowledge and skills.**
+Hi there! 👋 I'm Harsh
+I'm a 19-year-old aspiring website developer, Android app developer, and freelancer. Currently pursuing a BCA degree to expand my technical knowledge and skills.
 <br />
-## Fun Fact 🎈:
-
-<!-- <img align="left" height="150" src="https://raw.githubusercontent.com/hicodersofficial/images/main/giphy%20(2).gif" style="margin-right: 2rem;"> -->
 <img align="left" height="150" src="https://user-images.githubusercontent.com/69384657/179312151-fdabe3af-823f-41ab-a6d4-17a72af4e9e8.png" alt="octocat" style="margin-right: 2rem;" />
-
-• 🔭 I’m currently working on <b>something cool!</b> <br/>
-• 👯 I’m looking to collaborate on <b>cool project.</b><br/>
-</span>
 <br />
 <br />
 
@@ -35,7 +28,7 @@ APP DEVELOPER
 In Java and C++
 
 I have developed web views and small applications to enhance the functionality of my websites.
-
+<br />
 <!-- ## 🏆 **GITHUB TROPHY**
 
 ![](https://github-profile-trophy.vercel.app/?username=Jod-Harsh&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)
