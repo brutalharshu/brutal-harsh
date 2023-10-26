@@ -12,24 +12,29 @@ I'm a 19-year-old aspiring website developer, Android app developer, and freelan
 ## Work Experience
 <br />
 SOFTWARE & TOOLS
-
+<br />
 In Python, Java Script, C, C++
-
+<br />
 Make software & tools for NFT.
 Make software & tools for sellers.
 Make software & tools to done my work fast.
+<br />
+<br />
 WEB DESIGNER AND DEVELOPER
-
+<br />
 In Html, CSS, JS, and Next.js
-
+<br />
 I have developed custom websites for various companies.
 I have designed super cool animated websites for clients.
 I have designed ecommerce, portfolios, and blogs websites.
+<br />
+<br />
 APP DEVELOPER
-
+<br />
 In Java and C++
-
+<br />
 I have developed web views and small applications to enhance the functionality of my websites.
+<br />
 <br />
 <!-- ## 🏆 **GITHUB TROPHY**
 
