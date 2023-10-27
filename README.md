@@ -30,6 +30,7 @@ I'm a 19-year-old aspiring website developer, Android app developer, and freelan
 * Software development tools: Git, GitHub, Visual Studio Code
 * Cloud computing platforms: AWS, Azure, GCP
 
+![Total Repositories](https://img.shields.io/badge/Total%20Repositories-XX-brightgreen)
 <!-- ## 🏆 **GITHUB TROPHY**
 
 ![Total Repositories](https://img.shields.io/badge/Total%20Repositories-XX-brightgreen)
