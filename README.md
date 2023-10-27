@@ -34,17 +34,17 @@ I'm a 19-year-old aspiring website developer, Android app developer, and freelan
 
 ![Total Repositories](https://img.shields.io/badge/Total%20Repositories-XX-brightgreen)
 
-<a href="http://www.github.com/Jod-Harsh"><img src="https://activity-graph.herokuapp.com/graph?username=Jod-Harsh&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/brutal-harsh"><img src="https://activity-graph.herokuapp.com/graph?username=brutal-harsh&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <br /> -->
 
 # 📊 GitHub Stats:
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jod-Harsh&show_icons=true&locale=en" alt="Jod-Harsh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brutal-harsh&show_icons=true&locale=en" alt="brutal-harsh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Jod-Harsh&" alt="Jod-Harsh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brutal-harsh&" alt="brutal-harsh" /></p>
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jod-Harsh" alt="Jod-Harsh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brutal-harsh" alt="brutal-harsh" /></a> </p>
 
 ## 🕸️ **WEB DEV**
 
@@ -159,7 +159,7 @@ I'm a 19-year-old aspiring website developer, Android app developer, and freelan
 [gog]: https://www.geeksforgeeks.org/
 [fcc]: https://www.freecodecamp.org/
 [sof]: https://stackoverflow.com/
-[repo]: https://github.com/Jod-Harsh?tab=repositories
+[repo]: https://github.com/brutal-harsh?tab=repositories
 
 <hr />
 
@@ -169,4 +169,4 @@ I'm a 19-year-old aspiring website developer, Android app developer, and freelan
 
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
 
-![](https://img.shields.io/github/followers/Jod-Harsh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
+![](https://img.shields.io/github/followers/brutal-harsh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
