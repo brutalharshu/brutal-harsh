@@ -30,14 +30,7 @@ I'm a 19-year-old aspiring website developer, Android app developer, and freelan
 * Software development tools: Git, GitHub, Visual Studio Code
 * Cloud computing platforms: AWS, Azure, GCP
 
-![Total Repositories](https://img.shields.io/badge/Total%20Repositories-XX-brightgreen)
-<!-- ## 🏆 **GITHUB TROPHY**
-
-![Total Repositories](https://img.shields.io/badge/Total%20Repositories-XX-brightgreen)
-
-<a href="http://www.github.com/Jod-Harsh"><img src="https://activity-graph.herokuapp.com/graph?username=Jod-Harsh&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<br /> -->
+![Total Repositories](https://img.shields.io/badge/Total%20Repositories-XX-brightgreen)[https://github.com/Jod-Harsh?tab=repositories]
 
 # 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Jod-Harsh&show_icons=true&locale=en" alt="Jod-Harsh" /></p>
