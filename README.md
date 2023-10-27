@@ -32,7 +32,7 @@ I'm a 19-year-old aspiring website developer, Android app developer, and freelan
 
 <!-- ## 🏆 **GITHUB TROPHY**
 
-![](https://github-profile-trophy.vercel.app/?username=Jod-Harsh&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)
+![Total Repositories](https://img.shields.io/badge/Total%20Repositories-XX-brightgreen)
 
 <a href="http://www.github.com/Jod-Harsh"><img src="https://activity-graph.herokuapp.com/graph?username=Jod-Harsh&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
