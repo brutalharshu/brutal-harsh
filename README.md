@@ -170,3 +170,4 @@ I'm a 19-year-old aspiring website developer, Android app developer, and freelan
 ![](https://ForTheBadge.com/images/badges/built-with-love.svg)
 
 ![](https://img.shields.io/github/followers/brutal-harsh?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)
+
